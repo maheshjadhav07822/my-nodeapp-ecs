@@ -43,7 +43,7 @@ newgrp docker
 
 ### Step 2 — Clone the project
 ```bash
-git clone https://github.com/YOUR_USERNAME/aws-ride-platform.git
+git clone https://github.com/maheshjadhav07822/aws-ride-platform.git
 cd aws-ride-platform
 ```
 
@@ -117,5 +117,5 @@ terraform apply
 ---
 
 ## 👤 Author
-**Mahesh Jadhav** — AWS Cloud & Network Engineer  
-📧 krishnagyan7822@gmail.com | 📱 7822821943
+**Mahesh Jadhav** — DevOps & Cloud Engineer  
+📧 maheshjadhav7822@gmail.com | 📱 7822821943
